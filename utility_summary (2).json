@@ -1,0 +1,62 @@
+{
+ "User cancellation": {
+  "0.01": {
+   "false_alarm_rate": 0.011218707644071395,
+   "recall_turns": 0.06342991386061081,
+   "precision_turns": 0.21575342465753425,
+   "tokens_saved_share": 0.06097395718097687,
+   "tokens_saved": 360212448.0
+  },
+  "0.02": {
+   "false_alarm_rate": 0.021348748850096074,
+   "recall_turns": 0.10034679494350598,
+   "precision_turns": 0.18613820294666944,
+   "tokens_saved_share": 0.10292912274599075,
+   "tokens_saved": 608068672.0
+  },
+  "0.05": {
+   "false_alarm_rate": 0.05237029900223721,
+   "recall_turns": 0.18603870679046874,
+   "precision_turns": 0.14737681673165545,
+   "tokens_saved_share": 0.18072094023227692,
+   "tokens_saved": 1067635072.0
+  },
+  "0.1": {
+   "false_alarm_rate": 0.10166511531699245,
+   "recall_turns": 0.2920908379013312,
+   "precision_turns": 0.12265125892521608,
+   "tokens_saved_share": 0.29449644684791565,
+   "tokens_saved": 1739780352.0
+  }
+ },
+ "Failure": {
+  "0.01": {
+   "false_alarm_rate": 0.009428832376899888,
+   "recall_turns": 0.32497678737233054,
+   "precision_turns": 0.3702397743300423,
+   "tokens_saved_share": 0.1505078673362732,
+   "tokens_saved": 279378272.0
+  },
+  "0.02": {
+   "false_alarm_rate": 0.0155264255433721,
+   "recall_turns": 0.3695450324976787,
+   "precision_turns": 0.2887545344619105,
+   "tokens_saved_share": 0.19363921880722046,
+   "tokens_saved": 359440256.0
+  },
+  "0.05": {
+   "false_alarm_rate": 0.046415618285388476,
+   "recall_turns": 0.49365521510368304,
+   "precision_turns": 0.15355733127948398,
+   "tokens_saved_share": 0.3183651268482208,
+   "tokens_saved": 590961088.0
+  },
+  "0.1": {
+   "false_alarm_rate": 0.10097191939562557,
+   "recall_turns": 0.6109563602599815,
+   "precision_turns": 0.09355450236966825,
+   "tokens_saved_share": 0.4435722827911377,
+   "tokens_saved": 823375232.0
+  }
+ }
+}
